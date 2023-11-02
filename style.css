@@ -829,6 +829,10 @@ h3.my-profession
     {
         display: none;
     }
+    .section
+    {
+    position: static;
+    }
 }
 @media (max-width:767px)
 {
