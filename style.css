@@ -641,6 +641,15 @@ h3.my-profession
     line-height: 25px;
 }
 /* Portfolio */
+.portfolio-item .webdata {
+    /* border: 3px solid rgb(215, 213, 213); */
+    box-shadow: 0 0 20px rgba(71, 71, 72, 0.15);
+    border-radius: 10px;
+    /* text-align: center; */
+}
+.portfolio-item .webdata h3{
+    text-align: center;
+}
 .portfolio .container
 {
     padding-bottom: 40px;
