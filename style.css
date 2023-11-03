@@ -834,10 +834,10 @@ h3.my-profession
     {
         display: none;
     }
-    .section
+    /* .section
     {
     position: static;
-    }
+    } */
 }
 @media (max-width:767px)
 {
@@ -856,5 +856,12 @@ h3.my-profession
     .section
     {
     position: static;
+    }
+}
+@media (max-widht:340px)
+{
+    .section
+    {
+        position: static;
     }
 }
