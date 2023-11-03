@@ -646,9 +646,14 @@ h3.my-profession
     box-shadow: 0 0 20px rgba(71, 71, 72, 0.15);
     border-radius: 10px;
     /* text-align: center; */
+    height: 210px;
+    padding-top: 10px;
 }
 .portfolio-item .webdata h3{
     text-align: center;
+}
+.portfolio-item .webdata p{
+    font-size: 16px;
 }
 .portfolio .container
 {
